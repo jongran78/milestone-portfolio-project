@@ -98,6 +98,10 @@ header nav ul li {
     width: 100%;
     margin-bottom: 100px;
 }
+#div-one h3 {
+    font-family: 'Merriweather', serif;
+    color: crimson;
+}
 
 #div-one img {
    align-items: center;
